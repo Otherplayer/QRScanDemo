@@ -7,7 +7,7 @@
 //
 
 #import "QViewController.h"
-#import "ZBarSDK.h"
+#import <ZBarSDK.h>
 #import "QRScanView.h"
 
 @interface QViewController ()<QRScanDelegate>{
